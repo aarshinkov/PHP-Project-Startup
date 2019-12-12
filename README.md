@@ -3,7 +3,7 @@
 ## 1. Необходими програми
 
 1. PHP - свали от [тук](https://windows.php.net/downloads/releases/php-7.4.0-Win32-vc15-x64.zip)
-2. WampServer - свали от [тук](https://sourceforge.net/projects/wampserver/files/latest/download)
+2. WampServer - свали от [тук](https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe/download)
 
 ## 2. Инсталиране на PHP
 
@@ -50,7 +50,7 @@
 
 ## 3. Инсталиране на WampServer
 
-1. Свалете WampServer от [тук](https://sourceforge.net/projects/wampserver/files/latest/download)
+1. Свалете WampServer от [тук](https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.2.0_x64.exe/download)
 2. Стартирайте <code>.exe</code> файла и инсталирайте в папка по избор.
 3. За стартиране отидете в инсталационната директория и стартирайте файла **wampmanager.exe**.
 4. За да отворите проект, копирайте папката на проекта и го поставете в папка **www** в инсталационната директория на **WampServer**.
